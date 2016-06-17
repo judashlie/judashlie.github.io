@@ -23,9 +23,34 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+h2 {
+    font-size: 2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #ff8c00;
+}
+h3 {
+    font-size: 1.3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #1e90ff;
+}
+h4 {
+    font-size: 1em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #ff8c00;
+}
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.3em;
+    line-height: 1.2em;
+    color: #333;
+}
+p.resume {
+    font-size: 1.2em;
+    line-height: 1.1em;
+    color: #333;
+}
+li {
+    font-size: 1.2em;
+    line-height: 1.1em;
     color: #333;
 }
 footer {
